@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoEjemeploDos", "Metodo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosConParametrosYretornaResutadosTres", "MetodosConParametrosYretornaResutadosTres\MetodosConParametrosYretornaResutadosTres.csproj", "{1CDCD0FA-FD56-4056-88E2-813B1E361832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{54AB0A93-EA13-4A71-BC6B-30EB400B818E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{1CDCD0FA-FD56-4056-88E2-813B1E361832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CDCD0FA-FD56-4056-88E2-813B1E361832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CDCD0FA-FD56-4056-88E2-813B1E361832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54AB0A93-EA13-4A71-BC6B-30EB400B818E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AB0A93-EA13-4A71-BC6B-30EB400B818E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AB0A93-EA13-4A71-BC6B-30EB400B818E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AB0A93-EA13-4A71-BC6B-30EB400B818E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
